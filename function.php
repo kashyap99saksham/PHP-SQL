@@ -1,4 +1,6 @@
 <?php
+    //IN PHP , NO NEED TO WRITE RETURN TYPE 
+    //WE CANNOT RETURN MORE THAN ONE VALUE IN FUNCTION
     function sum($a,$b)
     {
         return $a+$b; 
