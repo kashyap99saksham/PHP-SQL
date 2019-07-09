@@ -1,0 +1,14 @@
+get -> 
+1. picture/vedio can't take
+2. size limit
+3. all values seen in url (UNSECURITY)
+    
+post ->
+1. picture/vedio can take
+2. no size limit
+3. values not seen in url (SECURITY)
+
+request ->
+1. use when not remeber which is use (get/post)
+
+
